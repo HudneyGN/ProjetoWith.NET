@@ -5,6 +5,9 @@ Este projeto é um sistema de Cadastro de Pessoas desenvolvido em **C# Windows F
 
 ⚠️ **Este projeto está em desenvolvimento!** Futuras funcionalidades ainda serão definidas e implementadas.
 
+![image](https://github.com/user-attachments/assets/8813825a-a05a-4e60-bf16-bf124da0c57a)
+
+
 ## 🚀 Funcionalidades Atuais
 - Cadastro de pessoas com os seguintes campos:
   - Código (ID)
