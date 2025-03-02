@@ -7,8 +7,10 @@ Este projeto é um sistema de Cadastro de Pessoas desenvolvido em **C# Windows F
 
 ![image](https://github.com/user-attachments/assets/8813825a-a05a-4e60-bf16-bf124da0c57a)![image](https://github.com/user-attachments/assets/2eefede7-6742-4607-b437-733e3f59b361)
 
-
-
+📌 Novas implementações 📌
+Criado classe Clear com o método Limpar Tela
+![image](https://github.com/user-attachments/assets/ae4b447f-61c5-42ef-bd8a-911f8e6c1750)
+![image](https://github.com/user-attachments/assets/76808485-6646-4d9f-af94-c52bbac5492c)
 
 ## 🚀 Funcionalidades Atuais
 - Cadastro de pessoas com os seguintes campos:
